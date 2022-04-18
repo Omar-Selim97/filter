@@ -1,0 +1,33 @@
+{
+    "student": [{
+            "id": 1,
+            "Arabic": "50",
+            "English": "80"
+        },
+
+        {
+            "Arabic": "70",
+            "English": "80"
+        },
+        {
+            "id": 3,
+            "Arabic": "60",
+            "English": "80"
+        },
+        {
+            "id": 4,
+            "Arabic": "50",
+            "English": "70"
+        },
+        {
+            "id": 5,
+            "Arabic": "55",
+            "English": "80"
+        },
+        {
+            "id": 6,
+            "Arabic": "90",
+            "English": "40"
+        }
+    ]
+}
